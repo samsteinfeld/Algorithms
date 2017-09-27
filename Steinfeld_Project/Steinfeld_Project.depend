@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1450392409 source:c:\users\sw\documents\comp215\steinfeld_project\record.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<string>
+	"record.h"
+	"container.h"
+	"recordDict.h"
+	"cell.h"
+
+1450324184 c:\users\sw\documents\comp215\steinfeld_project\record.h
+
+1450323981 c:\users\sw\documents\comp215\steinfeld_project\container.h
+	"record.h"
+
+1450304729 c:\users\sw\documents\comp215\steinfeld_project\recorddict.h
+	"record.h"
+	"container.h"
+
+1450324022 c:\users\sw\documents\comp215\steinfeld_project\cell.h
+	"container.h"
+	"record.h"
+
+1446060173 source:c:\users\sw\documents\comp215\steinfeld_project\searchtreenode.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<string>
+	"record.h"
+	"container.h"
+	"recordDict.h"
+	"cell.h"
+
+1450326438 source:c:\users\sw\documents\comp215\steinfeld_project\listrecorddict.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<string>
+	"record.h"
+	"container.h"
+	"recordDict.h"
+	"cell.h"
+	"listRecordDict.h"
+
+1450319972 c:\users\sw\documents\comp215\steinfeld_project\listrecorddict.h
+	"recordDict.h"
+	"cell.h"
+	"record.h"
+
+1450325076 source:c:\users\sw\documents\comp215\steinfeld_project\cell.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<string>
+	"record.h"
+	"container.h"
+	"recordDict.h"
+	"cell.h"
+
+1450392610 source:c:\users\sw\documents\comp215\steinfeld_project\inventory.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	"inventory.h"
+	"cell.h"
+	"listRecordDict.h"
+	"recordDict.h"
+	"container.h"
+	"RBRecordDict.h"
+	"HTrecordDict.h"
+	"record.h"
+
+1450202459 c:\users\sw\documents\comp215\steinfeld_project\inventory.h
+	"recordDict.h"
+
+1450326438 source:c:\users\sw\documents\comp215\steinfeld_project\rbrecorddict.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<string>
+	"listRecordDict.h"
+	"recordDict.h"
+	"RBtreeNode.h"
+	"RBRecordDict.h"
+
+1450304816 c:\users\sw\documents\comp215\steinfeld_project\rbtreenode.h
+	"container.h"
+	"record.h"
+	"cell.h"
+
+1450319392 c:\users\sw\documents\comp215\steinfeld_project\rbrecorddict.h
+	"recordDict.h"
+	"RBtreeNode.h"
+
+1450325854 source:c:\users\sw\documents\comp215\steinfeld_project\rbtreenode.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<string>
+	"RBtreeNode.h"
+	"container.h"
+	"cell.h"
+
+1450326263 source:c:\users\sw\documents\comp215\steinfeld_project\htrecorddict.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<string>
+	<random>
+	<stdlib.h>
+	"recordDict.h"
+	"listRecordDict.h"
+	"cell.h"
+	"HTrecordDict.h"
+	"record.h"
+
+1450325434 c:\users\sw\documents\comp215\steinfeld_project\htrecorddict.h
+	"recordDict.h"
+	"cell.h"
+	"record.h"
+
